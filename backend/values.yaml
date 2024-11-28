@@ -1,3 +1,5 @@
+configMap:
+  db_host: 
 deployment:
   imageVersion: v1
 hpa:
